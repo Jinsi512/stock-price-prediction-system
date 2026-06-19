@@ -1,5 +1,4 @@
 # stock-price-prediction-system
-# Stock Price Prediction System
 
 ## Overview
 This project uses Machine Learning techniques to predict stock market price trends based on historical stock data. The goal is to analyze past market behavior and forecast future trends using data-driven insights.
