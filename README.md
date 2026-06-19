@@ -53,5 +53,3 @@ The project uses approximately 3 years of historical stock market data containin
 ## Author
 
 Jinsi Thakker
-
-GitHub: https://github.com/Jinsi512
